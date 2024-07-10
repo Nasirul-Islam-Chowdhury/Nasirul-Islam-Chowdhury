@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Graphql, Redis, Docker**
 
-- 📫 How to reach me **fahimfiroz.ph@gmail.com**
+- 📫 How to reach me **nasirchy252@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
 
